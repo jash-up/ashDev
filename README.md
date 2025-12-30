@@ -1,1 +1,1 @@
-# ashDev
+Nix flakes to make different development shells for different programming languages cuz apparently the community recommended doing this as oppose to puting all the apps and software in the main config.nix lol
