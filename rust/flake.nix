@@ -22,6 +22,7 @@
 						zlib
 						lldb
 						gdb
+						rust-analyzer
 					];
 
 					shellHook = ''
